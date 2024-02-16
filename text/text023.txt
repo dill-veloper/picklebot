@@ -1,0 +1,2 @@
+Why is the pickle container always open?
+Because it’s ajar.
